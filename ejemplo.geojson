@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ejemplo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "lieu_dit": "El Rapalao", "year_plant": "1965", "varietal": "Mencia" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -6.564503156669715, 42.732324772712275 ], [ -6.593554648331967, 42.703273281050024 ], [ -6.54592925216434, 42.681841852774589 ], [ -6.52164030011885, 42.716608391976955 ], [ -6.564503156669715, 42.732324772712275 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "lieu_dit": "El Capricho", "year_plant": "1900", "varietal": "Godello" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -6.63784626676786, 42.662791694307536 ], [ -6.665468996545084, 42.64231277395546 ], [ -6.588315854753528, 42.571350933665698 ], [ -6.532117887275729, 42.604212457021362 ], [ -6.63784626676786, 42.662791694307536 ] ] ] ] } }
+]
+}
